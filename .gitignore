@@ -1,4 +1,4 @@
-archive/
+
 dermnet/
 *.keras
 *.h5
